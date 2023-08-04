@@ -1,3 +1,5 @@
+# https://www.youtube.com/watch?v=p7V4Aa7qEpw
+
 from fastapi import FastAPI
 import uvicorn
 import sys

@@ -1,3 +1,4 @@
+# https://www.youtube.com/watch?v=p7V4Aa7qEpw
 
 from text_summarization.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from text_summarization.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
