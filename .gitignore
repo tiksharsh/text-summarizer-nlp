@@ -160,3 +160,6 @@ cython_debug/
 #.idea/
 
 artifacts/*
+
+.DS_Store
+research/.DS_Store

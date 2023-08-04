@@ -1,6 +1,6 @@
 
 from text_summarization.config_manager.configuration import ConfigurationManager
-from text_summarization.conponents.data_validation import DataValiadtion
+from text_summarization.components.data_validation import DataValiadtion
 from textSummarizer.logging import logger
 
 

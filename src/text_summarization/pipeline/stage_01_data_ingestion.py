@@ -1,6 +1,6 @@
 
 from text_summarization.config_manager.configuration import ConfigurationManager
-from text_summarization.conponents.data_ingestion import DataIngestion
+from text_summarization.components.data_ingestion import DataIngestion
 from text_summarization.logging import logger
 
 
