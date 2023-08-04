@@ -8,3 +8,7 @@ TrainingArguments:
   eval_steps: 500
   save_steps: 1e6
   gradient_accumulation_steps: 16
+
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
